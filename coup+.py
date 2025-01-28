@@ -1,3 +1,5 @@
+# Coup with bots
+
 import random
 import time
 
