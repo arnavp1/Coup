@@ -1,7 +1,3 @@
-Here's a `README.md` for your GitHub project:  
-
----
-
 # Coup Game (Python Implementation)
 
 Welcome to the **Coup Game** repository! This project provides two versions of the popular card game **Coup**, implemented in Python. You can play either a multiplayer version with friends or a single-player version against AI opponents.
