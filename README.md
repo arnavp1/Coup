@@ -27,7 +27,7 @@ Both versions follow the standard **Coup** rules, where players use deception, d
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/coup-game.git
+   git clone https://github.com/arnavp1/coup-game.git
    cd coup-game
    ```
 2. Ensure you have **Python 3** installed.
