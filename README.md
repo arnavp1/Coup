@@ -31,12 +31,12 @@ Both versions follow the standard **Coup** rules, where players use deception, d
    cd coup
    ```
 2. Ensure you have **Python 3** installed.
-3. Run the desired version:
+3. Run the desired version (Mac):
    - Multiplayer:
      ```bash
-     python coup.py
+     python3 coup.py
      ```
    - Single-player:
      ```bash
-     python coup+
+     python coup+.py
      ```
